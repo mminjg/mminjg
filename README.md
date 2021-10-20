@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&height=200&animation=fadeIn&text=mminjg&fontColor=fff&fontSize=40&fontAlign=85)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mminjg&count_private=true&show_icons=true&theme=buefy)
+](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
 **mminjg/mminjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
