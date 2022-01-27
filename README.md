@@ -6,7 +6,7 @@
 <a href="mailto:mminjg@gmail.com"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 ### 👩‍💻 Who Am I
-- I'm studying Computer Science & Engineering at Ewha Womans University.
+- I'm studying Computer Science & Engineering at Ewha Womans University
 - I'm interested in Backend & DevOps
 
 ### ✨ Tech Skills
