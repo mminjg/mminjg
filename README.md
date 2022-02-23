@@ -7,7 +7,6 @@
 
 ### 👩‍💻 Who Am I
 - I'm studying Computer Science & Engineering at Ewha Womans University
-- I'm interested in Backend & DevOps
 
 ### ✨ Tech Skills
 <div>
