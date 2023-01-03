@@ -6,7 +6,7 @@
 <a href="mailto:mminjg@gmail.com"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 ### 👩‍💻 Who Am I
-- I'm studying Computer Science & Engineering at Ewha Womans University
+- I'm studying Computer Science & Engineering at Ewha Womans University.
 
 ### ✨ Tech Skills
 <div>
@@ -26,12 +26,13 @@
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<!--   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </div>
 
 
 ### 🏃 Experience
-- EDOC, EWHA Algorithm Club (2019.07 ~ )
+- EDOC, EWHA Algorithm Club (2019.07 ~ 2021.07)
 - Boostcamp 6th Web Fullstack - Challenge (2021.07 ~ 2021.08)
 - Boostcamp 6th Web Fullstack - Membership (2021.08 ~ 2021.12)
 
